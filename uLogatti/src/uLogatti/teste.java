@@ -10,6 +10,10 @@ import org.jsoup.Connection.Response;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
+/**@author
+ * Elcio Rodrigo
+ * 
+ * /
 
 
 
